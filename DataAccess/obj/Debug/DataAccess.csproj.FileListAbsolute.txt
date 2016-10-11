@@ -1,0 +1,5 @@
+C:\Users\dcathcart\documents\visual studio 2015\Projects\ImageSearchEngine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\dcathcart\documents\visual studio 2015\Projects\ImageSearchEngine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\dcathcart\documents\visual studio 2015\Projects\ImageSearchEngine\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\dcathcart\documents\visual studio 2015\Projects\ImageSearchEngine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\dcathcart\documents\visual studio 2015\Projects\ImageSearchEngine\DataAccess\obj\Debug\DataAccess.pdb
