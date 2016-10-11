@@ -1,0 +1,13 @@
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\LuceneSearch.dll
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\LuceneSearch.pdb
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\Lucene.Net.dll
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\Model.dll
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\EntityFramework.dll
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\Model.pdb
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\Lucene.Net.pdb
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\Lucene.Net.xml
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\bin\Debug\EntityFramework.xml
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\obj\Debug\LuceneSearch.csprojResolveAssemblyReference.cache
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\obj\Debug\LuceneSearch.dll
+C:\Users\dcathcart\Documents\Visual Studio 2015\Projects\ImageSearchEngine\LuceneSearch\obj\Debug\LuceneSearch.pdb
